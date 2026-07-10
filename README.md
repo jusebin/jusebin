@@ -4,4 +4,4 @@
 
 React · Next.js · TypeScript · Three.js
 
-Based in Bayonne, France. Available for freelance missions.
+Based in Bayonne, France. Available for code.
